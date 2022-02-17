@@ -9,4 +9,5 @@ shmokin on top fives
 - kotlin
 - powershell
 - python
+- rust
 - visual basic .net
