@@ -1,8 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
+import ("fmt")
 
 func prime(x int) bool {
 	for i := x - 1; i >= 2; i-- {
