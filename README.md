@@ -4,6 +4,7 @@ shmokin on top fives
 - c++
 - c#
 - go
+- haskell
 - java
 - javascript
 - kotlin
