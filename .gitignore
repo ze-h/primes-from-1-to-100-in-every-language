@@ -1,5 +1,10 @@
+#system-specific
 .vscode/
-vs/
+.vs/
+
+#compiles
+*.jar
+*.class
 *.json
 *.exe
 *.hi
