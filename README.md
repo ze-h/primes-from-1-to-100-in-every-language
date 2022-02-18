@@ -11,4 +11,5 @@ shmokin on top fives
 - powershell
 - python
 - rust
+- scratch
 - visual basic .net
