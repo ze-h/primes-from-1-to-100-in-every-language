@@ -16,7 +16,6 @@ loopf 101 =
 loopf n = do
     loopr (n-1, n)
     loopf (n+1)
-
-main :: IO ()
+main :: IO()
 main = do
     loopf 2
