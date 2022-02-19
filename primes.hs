@@ -2,8 +2,7 @@ module Main where
 
 --loopr goes backwards from n -> 2
 loopr :: (Integer, Integer) -> IO()
-loopr (1, m) =
-    print m
+loopr (1, m) = print m
 loopr (n, m) = do
     if mod m n == 0
         then return ()
@@ -11,12 +10,10 @@ loopr (n, m) = do
 
 --loopf goes forwards from n -> 100
 loopf :: Integer -> IO ()
-loopf 101 =
-    return ()
+loopf 101 = return ()
 loopf n = do
     loopr (n-1, n)
     loopf (n+1)
 
 main :: IO()
-main = do
-    loopf 2
+main = loopf 2
