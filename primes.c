@@ -6,7 +6,7 @@ bool prime(int x){
     }
     return true;
 }
-int main(int argc, char* argv[]) {
+int main() {
     for (int i = 2; i < 100; i++){
         if(prime(i)){printf("%d\n", i); }
     }
