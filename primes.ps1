@@ -1,6 +1,6 @@
 function main() {
-    foreach ($_ in 2..100){
-        if (isPrime($_) -eq 1) { Write-Host $_ }
+    foreach ($i in 2..100){
+        if (isPrime($i) -eq 1) { Write-Host $i }
     }
 }
 function isPrime($n) {
