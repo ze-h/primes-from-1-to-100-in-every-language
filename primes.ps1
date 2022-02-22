@@ -1,13 +1,12 @@
-function isprime($x) {
-    #this solution is really fucking bad
-    if($x-eq2){Write-Host 2;return}
-    $n = $x - 1
-    if($n-eq2){Write-Host 3;return}
-    $n++
-    $n /= 2
-    foreach($_ in $n..2){
-        if($x % $_ -eq 0){return}
+function main() {
+    foreach ($_ in 2..100){
+        if (isPrime2($_) -eq 1) { Write-Host $_ }
     }
-    Write-Host $x    
 }
-foreach($_ in 2..100){isprime($_)}
+function isPrime2($n) {
+    for ($i = 2; $i -le $n/2; $i++) {
+        if($n%$i -eq0){return 0;}
+    }
+    return 1;
+}
+main
