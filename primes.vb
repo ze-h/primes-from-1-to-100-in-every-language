@@ -1,6 +1,6 @@
 Module primes
     Sub Main()
-        For i = 1 To 100
+        For i = 2 To 100
             If isPrime(i) Then
                 Console.WriteLine(i)
             End If
@@ -8,7 +8,7 @@ Module primes
     End Sub
     Function isPrime(ByVal x As Integer) As Boolean
         Dim y As Integer
-        y = x - 1
+        y = x / 2
         For i = 2 To y
             If x Mod i = 0 Then
                 Return False

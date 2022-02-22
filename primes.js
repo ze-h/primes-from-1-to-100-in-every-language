@@ -1,6 +1,5 @@
 function prime(x) {
-    let y = x - 1
-    for (let index = y; index > 1; index--) {
+    for (let index = 2; index <= x/2; index++) {
         if (x%index==0) {
             return false
         }

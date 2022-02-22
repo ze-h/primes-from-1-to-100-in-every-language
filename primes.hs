@@ -9,7 +9,7 @@ loopb (n, m)
 loopf :: Integer -> IO ()
 loopf 101 = return()
 loopf n = do
-    loopb (n-1, n)
+    loopb (div n 2, n)
     loopf (n+1)
 
 main :: IO()

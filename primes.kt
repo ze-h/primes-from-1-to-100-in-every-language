@@ -4,7 +4,7 @@ fun main() {
     }
 }
 fun isPrime(x: Int): Boolean {
-    var y = x - 1
+    var y = (x / 2) - 1
     for (i in 2..y) {
         if(x.mod(i)==0){return false}
     }

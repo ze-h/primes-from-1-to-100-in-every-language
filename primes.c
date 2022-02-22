@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 bool prime(int x){
-    for (int i = x-1; i > 1; i--) {
+    for (int i = x/2; i > 1; i--) {
             if(x%i==0){return false;}
     }
     return true;
