@@ -8,6 +8,7 @@ shmokin on top fives
 - haskell
 - java
 - javascript
+- jupytr notebook
 - kotlin
 - powershell
 - python
