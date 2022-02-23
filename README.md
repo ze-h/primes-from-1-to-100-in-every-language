@@ -3,6 +3,7 @@ shmokin on top fives
 - c
 - c++
 - c#
+- f#
 - go
 - haskell
 - java
