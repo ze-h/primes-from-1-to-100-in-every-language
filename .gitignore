@@ -9,5 +9,5 @@
 *.exe
 *.hi
 *.o
-.fake
-.ionide
+*.fake
+*.ionide
