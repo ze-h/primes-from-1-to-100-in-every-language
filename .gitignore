@@ -1,6 +1,7 @@
 #system-specific
 .vscode/
 .vs/
+.ionide/
 
 #compiles
 *.jar
