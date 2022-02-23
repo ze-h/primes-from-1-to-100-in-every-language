@@ -32,7 +32,9 @@ bool function
 flag
 - f#
 - scratch
+
 binary function
 - powershell
+
 io function
 - haskell
