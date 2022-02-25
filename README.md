@@ -10,6 +10,7 @@ shmokin on top fives
 - kotlin
 - powershell
 - python
+- rpnscript (language i wrote, see ze-h/rpn)
 - rust
 - scratch
 - visual basic .net

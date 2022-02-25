@@ -1,0 +1,9 @@
+2
+tocom,blank
+tocom,prime
+tocom,*
+tocom,ifnot0,out
+tocom,remove
+tocom,1
+tocom,+
+repeat98,docom
