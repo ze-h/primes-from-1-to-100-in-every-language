@@ -37,6 +37,7 @@ flag
 
 binary function
 - powershell
+- rpnscript
 
 io function
 - haskell
