@@ -1,6 +1,7 @@
 #system-specific
 .vscode/
 .vs/
+.ionide/
 
 #compiles
 *.jar
@@ -9,3 +10,5 @@
 *.exe
 *.hi
 *.o
+*.fake
+*.ionide
