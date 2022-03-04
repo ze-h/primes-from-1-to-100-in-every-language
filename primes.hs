@@ -1,5 +1,5 @@
 module Main where
-import Control.Monad
+import Control.Monad ( forM_, when )
 loopb :: Int -> Int -> IO()
 loopb n m
     | n == 1 = print m
