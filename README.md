@@ -8,6 +8,7 @@ shmokin on top fives
 - haskell
 - java
 - javascript
+- jupytr
 - kotlin
 - php
 - powershell
@@ -25,6 +26,7 @@ bool function
 - go
 - java
 - javascript
+- jupytr
 - kotlin
 - php
 - python
