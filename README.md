@@ -24,6 +24,7 @@ bool function
 - c++
 - c#
 - go
+- haskell
 - java
 - javascript
 - jupytr
@@ -40,6 +41,3 @@ flag
 binary function
 - powershell
 - rpnscript
-
-io function
-- haskell
