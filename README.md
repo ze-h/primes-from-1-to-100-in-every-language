@@ -8,7 +8,7 @@ shmokin on top fives
 - haskell
 - java
 - javascript
-- jupytr
+- jupyter
 - kotlin
 - php
 - powershell
@@ -27,7 +27,7 @@ bool function
 - haskell
 - java
 - javascript
-- jupytr
+- jupyter
 - kotlin
 - php
 - python
@@ -41,3 +41,29 @@ flag
 binary function
 - powershell
 - rpnscript
+
+## methods
+for
+- c
+- c++
+- c#
+- f#
+- go
+- java
+- javascript
+- kotlin
+- php
+- rust
+- visual basic .net
+
+for each
+- jupyter
+- powershell
+
+recursion
+- haskell
+- python
+
+repeat
+- rpnscript
+- scratch
