@@ -1,14 +1,14 @@
 #include <iostream>
-bool prime(int x){
+std::string prime(int x){
+    bool f = true;
     for (int i = x / 2; i > 1; i--){
-        if(x%i==0){return false;}
+        if(x%i==0){f = false;}
     }
-    return true;
+    return f ? std::to_string(i)+"\n" : "";
 }
 int main(){
     for (int i = 2; i < 100; i++){
-        std::string s = (prime(i)) ? std::to_string(i)+"\n" : "";
-        std::cout << s;
+        std::cout << prime(i);
     }
     return 0;
 }
