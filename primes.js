@@ -1,4 +1,4 @@
-function prime(x) {
+let prime = (x) => {
     for (let index = 2; index <= x/2; index++) {
         if (x%index==0) { return false }
     }
