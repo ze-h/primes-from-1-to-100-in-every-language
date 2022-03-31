@@ -7,7 +7,8 @@ bool prime(int x){
 }
 int main(){
     for (int i = 2; i < 100; i++){
-        if(prime(i)){std::cout<<i<<"\n";}
+        std::string s = (prime(i)) ? std::to_string(i)+"\n" : "";
+        std::cout << s;
     }
     return 0;
 }
