@@ -3,8 +3,10 @@ shmokin on top fives
 - c
 - c++
 - c#
+- d
 - f#
 - go
+- groovy
 - haskell
 - java
 - javascript
@@ -23,7 +25,9 @@ bool function
 - c
 - c++
 - c#
+- d
 - go
+- groovy
 - haskell
 - java
 - javascript
@@ -48,7 +52,9 @@ for
 - c++
 - c#
 - f#
+- d
 - go
+- groovy
 - java
 - javascript
 - kotlin
