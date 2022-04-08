@@ -20,6 +20,7 @@ shmokin on top fives
 - rust
 - scratch
 - swift
+- typescript
 - v
 - visual basic .net
 
@@ -41,6 +42,7 @@ bool function
 - python
 - rust
 - swift
+- typescript
 - v
 - visual basic .net
 
