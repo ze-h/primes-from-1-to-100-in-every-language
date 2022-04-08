@@ -18,6 +18,8 @@ shmokin on top fives
 - rpnscript (language i wrote, see ze-h/rpn)
 - rust
 - scratch
+- swift
+- v
 - visual basic .net
 
 ## algorithms
@@ -36,6 +38,8 @@ bool function
 - php
 - python
 - rust
+- swift
+- v
 - visual basic .net
 
 flag
@@ -60,6 +64,8 @@ for
 - kotlin
 - php
 - rust
+- swift
+- v
 - visual basic .net
 
 for each
