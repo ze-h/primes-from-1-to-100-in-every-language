@@ -17,6 +17,7 @@ shmokin on top fives
 - powershell
 - python
 - rpnscript (language i wrote, see ze-h/rpn)
+- ruby
 - rust
 - scratch
 - swift
@@ -48,6 +49,7 @@ bool function
 
 flag
 - f#
+- ruby
 - scratch
 
 binary function
@@ -75,6 +77,7 @@ for
 for each
 - jupyter
 - powershell
+- ruby
 
 recursion
 - haskell
