@@ -1,7 +1,7 @@
 def isprime(x)
     flag = true
     y = x - 1
-    for a in 2..y
+    (2..y).each do |a|
         if x % a == 0 then
             flag = false
         end
