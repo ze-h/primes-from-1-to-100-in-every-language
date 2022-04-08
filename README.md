@@ -12,6 +12,7 @@ shmokin on top fives
 - javascript
 - jupyter
 - kotlin
+- objective-c
 - php
 - powershell
 - python
@@ -19,6 +20,7 @@ shmokin on top fives
 - rust
 - scratch
 - swift
+- typescript
 - v
 - visual basic .net
 
@@ -35,10 +37,12 @@ bool function
 - javascript
 - jupyter
 - kotlin
+- objective-c
 - php
 - python
 - rust
 - swift
+- typescript
 - v
 - visual basic .net
 
