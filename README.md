@@ -4,6 +4,7 @@ shmokin on top fives
 - c++
 - c#
 - d
+- dart
 - f#
 - go
 - groovy
@@ -31,6 +32,7 @@ bool function
 - c++
 - c#
 - d
+- dart
 - go
 - groovy
 - haskell
