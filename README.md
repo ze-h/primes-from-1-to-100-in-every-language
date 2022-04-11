@@ -3,6 +3,7 @@ shmokin on top fives
 - c
 - c++
 - c#
+- crystal
 - d
 - dart
 - f#
@@ -50,6 +51,7 @@ bool function
 - visual basic .net
 
 flag
+- crystal
 - f#
 - ruby
 - scratch
@@ -88,3 +90,6 @@ recursion
 repeat
 - rpnscript
 - scratch
+
+while
+- crystal
