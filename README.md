@@ -19,6 +19,7 @@ current languages: 26
 - php
 - powershell
 - python
+- r
 - rpnscript (language i wrote, see ze-h/rpn)
 - ruby
 - rust
@@ -61,6 +62,8 @@ binary function
 - powershell
 - rpnscript
 
+no function
+- r
 ## methods
 for
 - c
@@ -74,6 +77,7 @@ for
 - javascript
 - kotlin
 - php
+- r
 - rust
 - swift
 - v
