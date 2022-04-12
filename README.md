@@ -17,6 +17,7 @@ current languages: 30
 - kotlin
 - objective-c
 - octave
+- p#
 - php
 - powershell
 - python
@@ -47,6 +48,7 @@ bool function
 - jupyter
 - kotlin
 - objective-c
+- p#
 - php
 - python
 - rust
@@ -86,6 +88,7 @@ for
 - javascript
 - kotlin
 - octave
+- p#
 - php
 - r
 - rust
