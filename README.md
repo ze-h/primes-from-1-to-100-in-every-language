@@ -16,6 +16,7 @@ current languages: 29
 - jupyter
 - kotlin
 - objective-c
+- octave
 - php
 - powershell
 - python
@@ -67,6 +68,7 @@ no function
 - r
 
 inbuilt function
+- octave
 - rpnscript
 - ruby
 - wolfram
@@ -83,6 +85,7 @@ for
 - java
 - javascript
 - kotlin
+- octave
 - php
 - r
 - rust
