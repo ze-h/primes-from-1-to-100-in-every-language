@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 29
+current languages: 30
 <br>shmokin on top fives
 - c
 - c++
