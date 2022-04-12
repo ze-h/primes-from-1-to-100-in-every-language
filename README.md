@@ -29,6 +29,7 @@ current languages: 26
 - v
 - visual basic .net
 - wolfram
+- zig
 
 ## algorithms
 bool function
@@ -52,11 +53,11 @@ bool function
 - typescript
 - v
 - visual basic .net
+- zig
 
 flag
 - crystal
 - f#
-- ruby
 - scratch
 
 binary function
@@ -67,6 +68,7 @@ no function
 
 inbuilt function
 - rpnscript
+- ruby
 - wolfram
 
 ## methods
@@ -104,3 +106,4 @@ repeat
 
 while
 - crystal
+- zig
