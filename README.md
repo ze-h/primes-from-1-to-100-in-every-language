@@ -28,6 +28,7 @@ current languages: 26
 - typescript
 - v
 - visual basic .net
+- wolfram
 
 ## algorithms
 bool function
@@ -60,10 +61,14 @@ flag
 
 binary function
 - powershell
-- rpnscript
 
 no function
 - r
+
+inbuilt function
+- rpnscript
+- wolfram
+
 ## methods
 for
 - c
@@ -95,6 +100,7 @@ recursion
 repeat
 - rpnscript
 - scratch
+- wolfram
 
 while
 - crystal

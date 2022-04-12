@@ -1,0 +1,1 @@
+Do[If[PrimeQ[n],Print[n]],{n, 100}]
