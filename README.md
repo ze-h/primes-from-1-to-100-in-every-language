@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 31
+current languages: 32
 <br>shmokin on top fives
 - c
 - c++
@@ -7,6 +7,7 @@ current languages: 31
 - crystal
 - d
 - dart
+- elixir
 - f#
 - go
 - groovy
@@ -40,6 +41,7 @@ bool function
 - c#
 - d
 - dart
+- elixir
 - go
 - groovy
 - haskell
@@ -97,6 +99,7 @@ for
 - visual basic .net
 
 for each
+- elixir
 - jupyter
 - powershell
 - ruby
