@@ -1,7 +1,3 @@
-	.file	"primes.asm"
-	.text
-	.globl	prime
-	.type	prime, @function
 prime:
 .LFB0:
 	.cfi_startproc
