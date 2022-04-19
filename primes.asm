@@ -1,4 +1,4 @@
-	.file	"primes.c"
+	.file	"primes.asm"
 	.text
 	.globl	prime
 	.type	prime, @function
