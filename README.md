@@ -1,6 +1,7 @@
 # primes-from-1-to-100-in-every-language
-current languages: 32
+current languages: 33
 <br>shmokin on top fives
+- assembly
 - c
 - c++
 - c#
@@ -36,6 +37,7 @@ current languages: 32
 
 ## algorithms
 bool function
+- assembly
 - c
 - c++
 - c#
@@ -116,3 +118,6 @@ repeat
 while
 - crystal
 - zig
+
+you should kill yourself NOW
+- assembly
