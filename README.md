@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 33
+current languages: 34
 <br>shmokin on top fives
 - assembly
 - c
@@ -10,6 +10,7 @@ current languages: 33
 - dart
 - elixir
 - f#
+- f# script
 - go
 - groovy
 - haskell
@@ -44,6 +45,7 @@ bool function
 - d
 - dart
 - elixir
+- f# script
 - go
 - groovy
 - haskell
@@ -107,6 +109,7 @@ for each
 - ruby
 
 recursion
+- f# script
 - haskell
 - python
 

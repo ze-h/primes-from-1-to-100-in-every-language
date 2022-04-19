@@ -1,7 +1,2 @@
-let prime (x : int) : bool =
-    let mutable flag = true
-    for i in 2 .. 1 .. (x/2) do
-        if x % i = 0 then flag <- false
-    flag
-for i in 2 .. 1 .. 100 do
-    if prime(i) then printfn "%i" i
+let rec prime(x:int,y:int) = y = 1 || (x % y <> 0 && (prime(x,y-1)))
+for i in [2..100] do if prime(i, (i/2)) then printfn "%i" i
