@@ -73,9 +73,6 @@ flag
 binary function
 - powershell
 
-no function
-- r
-
 inbuilt function
 - octave
 - rpnscript
@@ -83,6 +80,7 @@ inbuilt function
 - wolfram
 
 list comprehension
+- r
 - sql
 
 ## methods
