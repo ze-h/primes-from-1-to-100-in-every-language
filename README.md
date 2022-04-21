@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 34
+current languages: 35
 <br>shmokin on top fives
 - assembly
 - c
@@ -29,6 +29,7 @@ current languages: 34
 - ruby
 - rust
 - scratch
+- sql
 - swift
 - typescript
 - v
@@ -81,6 +82,9 @@ inbuilt function
 - ruby
 - wolfram
 
+list comprehension
+- sql
+
 ## methods
 for
 - c
@@ -107,6 +111,7 @@ for each
 - jupyter
 - powershell
 - ruby
+- sql
 
 recursion
 - f# script
