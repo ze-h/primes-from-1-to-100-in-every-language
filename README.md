@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 36
+current languages: 37
 <br>shmokin on top fives
 - assembly
 - c
@@ -17,6 +17,7 @@ current languages: 36
 - java
 - javascript
 - jupyter
+- k
 - kotlin
 - objective-c
 - octave
@@ -82,6 +83,7 @@ inbuilt function
 - wolfram
 
 list comprehension
+- k
 - r
 - sql
 
@@ -110,6 +112,7 @@ for
 for each
 - elixir
 - jupyter
+- k
 - powershell
 - ruby
 - sql
