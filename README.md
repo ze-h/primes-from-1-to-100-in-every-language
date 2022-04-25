@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 35
+current languages: 36
 <br>shmokin on top fives
 - assembly
 - c
