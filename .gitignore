@@ -2,6 +2,7 @@
 .vscode/
 .vs/
 .ionide/
+.metals/
 
 #compiles
 *.jar

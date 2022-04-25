@@ -28,6 +28,7 @@ current languages: 35
 - rpnscript (language i wrote, see ze-h/rpn)
 - ruby
 - rust
+- scala
 - scratch
 - sql
 - swift
@@ -59,6 +60,7 @@ bool function
 - php
 - python
 - rust
+- scala
 - swift
 - typescript
 - v
@@ -100,6 +102,7 @@ for
 - php
 - r
 - rust
+- scala
 - swift
 - v
 - visual basic .net
