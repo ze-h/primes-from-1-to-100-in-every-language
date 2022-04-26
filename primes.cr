@@ -1,19 +1,12 @@
-def prime(x) : Bool
-    flag = true
-    y = x - 1
-    i = 2
-    until i >= y
-        if x % i == 0
-            flag = false
+def p(x)
+    (2..(x-1)).each do|i|
+        if x%i==0
+            return 1
         end
-        i += 1
     end
-    flag
 end
-i = 2
-while i < 100
-    if prime(i) 
+(2..97).each do|i|
+    if p(i)!=1
         puts i
     end
-    i += 1
 end

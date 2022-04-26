@@ -1,13 +1,11 @@
-package prime
-import ("fmt")
-func prime(x int) bool {
-    for i := x / 2; i >= 2; i-- {
-        if (x%i == 0){ return false }
-    }
-    return true
-}
+package main
+import (
+    "fmt"
+    "math/big"
+)
 func main() {
-    for i := 2; i < 100; i++ {
-        if (prime(i)){ fmt.Println(i) }
+    var i int64;
+    for i = 2; i < 100; i++ {
+        if (big.NewInt(i).ProbablyPrime(0)){ fmt.Println(i) }
     }
 }
