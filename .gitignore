@@ -4,12 +4,13 @@
 .ionide/
 .metals/
 
-#compiles
-*.jar
+#other
 *.class
-*.json
 *.exe
-*.hi
-*.o
 *.fake
+*.hi
 *.ionide
+*.jar
+*.json
+*.o
+*.out
