@@ -19,6 +19,7 @@ current languages: 37
 - jupyter
 - k
 - kotlin
+- lua
 - objective-c
 - octave
 - p#
@@ -56,6 +57,7 @@ bool function
 - javascript
 - jupyter
 - kotlin
+- lua
 - objective-c
 - p#
 - php
