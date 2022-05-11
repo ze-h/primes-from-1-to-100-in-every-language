@@ -86,6 +86,7 @@ inbuilt function
 - wolfram
 
 list comprehension
+- clojure
 - k
 - r
 - sql
