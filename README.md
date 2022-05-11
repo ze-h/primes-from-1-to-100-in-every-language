@@ -1,10 +1,11 @@
 # primes-from-1-to-100-in-every-language
-current languages: 38
+current languages: 39
 <br>shmokin on top fives
 - assembly
 - c
 - c++
 - c#
+- clojure
 - crystal
 - d
 - dart
