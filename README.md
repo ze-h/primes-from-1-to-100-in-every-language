@@ -1,7 +1,8 @@
 # primes-from-1-to-100-in-every-language
-current languages: 39
+current languages: 40
 <br>shmokin on top fives
 - assembly
+- bash
 - c
 - c++
 - c#
@@ -90,3 +91,6 @@ list comprehension
 - k
 - r
 - sql
+
+no function
+- bash
