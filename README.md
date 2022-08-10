@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 40
+current languages: 42
 <br>shmokin on top fives
 - assembly
 - bash
@@ -23,8 +23,10 @@ current languages: 40
 - kotlin
 - lua
 - objective-c
+- objective-c++
 - octave
 - p#
+- pascal
 - php
 - powershell
 - python
@@ -94,3 +96,4 @@ list comprehension
 
 no function
 - bash
+- pascal
