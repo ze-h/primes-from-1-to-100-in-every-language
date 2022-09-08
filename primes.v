@@ -4,8 +4,6 @@ fn prime(x int) bool{
 	}
 	return true
 }
-fn main() {
-	for i in 2 .. 100{
-		if prime(i) {println(i)}
-	}
+for i in 2 .. 100{
+	if prime(i) {println(i)}
 }
