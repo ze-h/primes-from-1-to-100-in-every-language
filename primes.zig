@@ -7,9 +7,8 @@ pub fn prime(x : i32) bool {
     return true;
 }
 pub fn main() !void {
-    const stdout = std.io.getStdOut().writer();
     var i: i32 = 2;
     while (i < 100) : (i += 1)
         if(prime(i))
-            try stdout.print("{}\n", .{i});
+            try std.io.getStdOut().writer().print("{}\n", .{i});
 }
