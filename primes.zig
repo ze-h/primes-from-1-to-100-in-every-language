@@ -6,7 +6,7 @@ pub fn prime(x : i32) bool {
             return false;
     return true;
 }
-pub fn main() !void {
+pub fn main() !void {   
     var i: i32 = 2;
     while (i < 100) : (i += 1)
         if(prime(i))
