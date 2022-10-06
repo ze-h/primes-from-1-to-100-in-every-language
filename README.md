@@ -1,5 +1,5 @@
 # primes-from-1-to-100-in-every-language
-current languages: 43
+current languages: 44
 <br>shmokin on top fives
 - assembly
 - bash
@@ -22,6 +22,7 @@ current languages: 43
 - k
 - kotlin
 - lua
+- matlab
 - objective-c
 - objective-c++
 - octave
@@ -84,6 +85,7 @@ binary function
 - powershell
 
 inbuilt function
+- matlab
 - octave
 - rpnscript
 - ruby
