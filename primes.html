@@ -3,12 +3,10 @@
 <body>
     <p id="p1"></p>
     <script>
-        let out = ""
         let prime = (x, y) => y == 1 || (x % y != 0 && prime(x,y-1))
         for (let k = 2; k < 100; k++) {
-            if(prime(k, parseInt(k/2))){ out += k + "<br>"}
+            if(prime(k, parseInt(k/2))){ document.getElementById("p1").innerHTML += k + "<br>"}
         }
-        document.getElementById("p1").innerHTML = out
     </script>
 </body>
 </html>
