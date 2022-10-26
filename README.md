@@ -44,6 +44,7 @@ current languages: 44
 - v
 - visual basic .net
 - wolfram
+- wren
 - zig
 
 ## algorithms
@@ -74,6 +75,7 @@ bool function
 - typescript
 - v
 - visual basic .net
+- wren
 - zig
 
 flag
