@@ -57,7 +57,6 @@ bool function
 - dart
 - elixir
 - f# script
-- go
 - groovy
 - haskell
 - java
@@ -87,7 +86,7 @@ binary function
 - powershell
 
 inbuilt function
-- matlab
+- go
 - octave
 - rpnscript
 - ruby
@@ -96,6 +95,7 @@ inbuilt function
 list comprehension
 - clojure
 - k
+- matlab
 - r
 - sql
 
