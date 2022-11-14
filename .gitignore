@@ -1,11 +1,12 @@
 #system-specific
-.vscode/
-.vs/
 .ionide/
 .metals/
+.vs/
+.vscode/
 
 #other
 *.class
+*.dll
 *.exe
 *.fake
 *.hi
