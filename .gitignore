@@ -1,4 +1,5 @@
 #system-specific
+.config/
 .ionide/
 .metals/
 .vs/
