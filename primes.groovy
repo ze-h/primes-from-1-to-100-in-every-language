@@ -4,6 +4,6 @@ static prime(x){
             return false
     return true
 }
-for(i = 3; i < 100; i++)
+for(i = 2; i < 100; i++)
     if(prime(i))
         println(i)

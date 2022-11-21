@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <stdbool.h>
-bool prime(int x){
+int prime(int x){
     for (int i = x/2; i > 1; i--) {
-        if(x%i==0){return false;}
+        if(x%i==0){return 0;}
     }
-    return true;
+    return 1;
 }
 int main() {
     for (int i = 2; i < 100; i++){
