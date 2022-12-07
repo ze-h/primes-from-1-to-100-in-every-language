@@ -4,17 +4,20 @@ namespace CoreApp
 {
     public class Program
     {
-        static bool prime(int x){
-            for(int i = x / 2; i > 1; i--){
-                if(x % i == 0){ return false; }
+        static bool prime(int x)
+        {
+            for (int i = x / 2; i > 1; i--)
+            {
+                if (x % i == 0) { return false; }
             }
             return true;
         }
         static void Main(string[] args)
         {
             var runtime = PSharpRuntime.Create();
-            for(int i = 2; i < 100; i++){
-                if(prime(i)){ Console.WriteLine(i);}
+            for (int i = 2; i < 100; i++)
+            {
+                if (prime(i)) { Console.WriteLine(i); }
             }
         }
     }
@@ -26,6 +29,6 @@ namespace CoreApp
         void InitOnEntry()
         {
             this.Assert(false);
-       }
+        }
     }
 }
