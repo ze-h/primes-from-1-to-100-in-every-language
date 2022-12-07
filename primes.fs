@@ -1,4 +1,4 @@
-﻿let prime (x: int) : bool =
+let prime (x: int) : bool =
     let mutable flag = true
 
     for i in 2..1 .. (x / 2) do
