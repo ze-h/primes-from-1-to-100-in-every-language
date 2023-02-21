@@ -1,6 +1,8 @@
 # primes-from-1-to-100-in-every-language
-current languages: 44
-<br>shmokin on top fives
+
+current languages: 46
+<br> shmokin on top fives
+
 - assembly
 - bash
 - c
@@ -23,6 +25,7 @@ current languages: 44
 - kotlin
 - lua
 - matlab
+- nim
 - objective-c
 - objective-c++
 - octave
@@ -48,11 +51,14 @@ current languages: 44
 - zig
 
 ## algorithms
+
 bool function
+
 - assembly
 - c
 - c++
 - c#
+- coffeescript
 - d
 - dart
 - elixir
@@ -64,6 +70,7 @@ bool function
 - jupyter
 - kotlin
 - lua
+- nim
 - objective-c
 - p#
 - php
@@ -78,14 +85,17 @@ bool function
 - zig
 
 flag
+
 - crystal
 - f#
 - scratch
 
 binary function
+
 - powershell
 
 inbuilt function
+
 - go
 - octave
 - rpnscript
@@ -93,6 +103,7 @@ inbuilt function
 - wolfram
 
 list comprehension
+
 - clojure
 - k
 - matlab
@@ -100,6 +111,7 @@ list comprehension
 - sql
 
 no function
+
 - bash
 - pascal
 - perl
