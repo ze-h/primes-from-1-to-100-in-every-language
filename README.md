@@ -3,7 +3,7 @@
 current languages: 46
 <br> shmokin on top fives
 
-- assembly
+- at&t assembly
 - bash
 - c
 - c++
@@ -54,7 +54,7 @@ current languages: 46
 
 bool function
 
-- assembly
+- at&t assembly
 - c
 - c++
 - c#
