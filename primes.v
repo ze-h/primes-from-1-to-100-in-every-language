@@ -1,6 +1,6 @@
 fn prime(x int) bool{
-	for i := x/2; i > 1; i-- {
-		if x%i==0 {return false}
+	for i := x / 2; i > 1; i-- {
+		if x % i == 0 {return false}
 	}
 	return true
 }
