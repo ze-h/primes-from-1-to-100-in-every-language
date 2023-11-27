@@ -1,6 +1,6 @@
 # primes-from-1-to-100-in-every-language
 
-current languages: 46
+current languages: 49
 <br> shmokin on top fives
 
 - at&t assembly
