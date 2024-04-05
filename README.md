@@ -1,7 +1,8 @@
 # primes-from-1-to-100-in-every-language
 
-current languages: 49
-<br> shmokin on top fives
+current languages: 50
+
+shmokin on top fives
 
 - at&t assembly
 - bash
