@@ -45,6 +45,7 @@ current languages: 49
 - swift
 - typescript
 - v
+- vala
 - visual basic .net
 - wolfram
 - wren
@@ -80,6 +81,7 @@ bool function
 - swift
 - typescript
 - v
+- vala
 - visual basic .net
 - wren
 - zig
